@@ -4,7 +4,7 @@ C++ Lightweighting Web Server
 ===============
 写在前面：
 ----------
-<font color = red>**注：本项目是对github高星项目[TinyWebServer](https://github.com/qinguoyi/TinyWebServer)的再复现**</font>      
+<font color = red>**注：本项目的实现主要参考github高星项目[TinyWebServer](https://github.com/qinguoyi/TinyWebServer)和游双大佬的《Linux高性能服务器编程》**</font>      
 
 项目介绍
 -----------
@@ -154,8 +154,4 @@ C++ Lightweighting Web Server
 - [x] 关闭日志
 - [x] Reactor反应堆模型
 
-
-致谢
-------------
-Linux高性能服务器编程，游双著.
 
