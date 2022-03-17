@@ -155,3 +155,6 @@ C++ Lightweighting Web Server
 - [x] Reactor反应堆模型
 
 
+致谢：
+----------------
+github高星项目[TinyWebServer](https://github.com/qinguoyi/TinyWebServer)和游双大佬的《Linux高性能服务器编程》
